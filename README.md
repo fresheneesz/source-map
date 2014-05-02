@@ -187,7 +187,7 @@ the following properties:
 
 and an object is returned with the following properties:
 
-* `source`: The original source file, or null if this information is not
+* `source`: The original source file name, or null if this information is not
   available.
 
 * `line`: The line number in the original source, or null if this information is
